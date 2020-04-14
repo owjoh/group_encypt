@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "780925990642",
+    "firebase_url": "https://group-encrypt.firebaseio.com",
+    "project_id": "group-encrypt",
+    "storage_bucket": "group-encrypt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780925990642:android:de70a835a686f1533d426b",
+        "android_client_info": {
+          "package_name": "com.example.group_encypt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780925990642-a6ndk7u6b2vsji400lsegpt4q22lsh0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2PwgkYZVDqlgdT5WyOorQSelpqLNK_dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780925990642-a6ndk7u6b2vsji400lsegpt4q22lsh0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
